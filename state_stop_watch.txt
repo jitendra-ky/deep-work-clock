@@ -1,0 +1,2 @@
+elapsed_time : 100
+is_stop : 1
